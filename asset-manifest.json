@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/musclemonsters/static/css/main.0aa6a6a6.chunk.css",
-    "main.js": "/musclemonsters/static/js/main.ccfc3626.chunk.js",
-    "main.js.map": "/musclemonsters/static/js/main.ccfc3626.chunk.js.map",
+    "main.js": "/musclemonsters/static/js/main.01c10472.chunk.js",
+    "main.js.map": "/musclemonsters/static/js/main.01c10472.chunk.js.map",
     "runtime-main.js": "/musclemonsters/static/js/runtime-main.dcec377a.js",
     "runtime-main.js.map": "/musclemonsters/static/js/runtime-main.dcec377a.js.map",
     "static/js/2.6999be89.chunk.js": "/musclemonsters/static/js/2.6999be89.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.dcec377a.js",
     "static/js/2.6999be89.chunk.js",
     "static/css/main.0aa6a6a6.chunk.css",
-    "static/js/main.ccfc3626.chunk.js"
+    "static/js/main.01c10472.chunk.js"
   ]
 }
