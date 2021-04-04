@@ -8,7 +8,7 @@ import About from './Components/About.jsx';
 
 function App() {
   return (
-    <div className="">
+    <div className="">s
       <Switch>
         <Route exact path="/" component={Home} />
         <Route exact path="/home" component={Home} />
