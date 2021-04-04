@@ -8,10 +8,10 @@ import About from './Components/About.jsx';
 
 function App() {
   return (
-    <div className="">
+    <div className="app">
       <Switch>
-        <Route exact path="/" component={Home} />
-        <Route exact path="/home" component={Home} />
+        <Route exact path="musclemonsters/" component={Home} />
+        <Route exact path="musclemonsters/home" component={Home} />
         <Route exact path="/services" component={Services} />
         <Route exact path="/offers" component={Offers} />
         <Route exact path="/contact" component={Contact} />
